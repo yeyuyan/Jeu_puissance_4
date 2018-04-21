@@ -21,7 +21,7 @@ pygame.display.set_caption('demo')
 yellowPiece = pygame.image.load("yellowPiece.png")
 bluePiece = pygame.image.load("bluePiece.png")
 board = pygame.image.load("board.png")
-highLight = pygame.image.load("highLignt.png")
+highLight = pygame.image.load("highLight.png")
 board = pygame.transform.scale(board, (824, 549))
 highLight = pygame.transform.scale(highLight, (101, 549))
 l_piece=90
